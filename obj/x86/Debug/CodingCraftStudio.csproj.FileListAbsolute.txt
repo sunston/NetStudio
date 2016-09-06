@@ -1,0 +1,14 @@
+I:\Проекты\SRC\CodingCraftStudio\CodingCraftStudio\bin\Debug\CodingCraftStudio.exe
+I:\Проекты\SRC\CodingCraftStudio\CodingCraftStudio\bin\Debug\CodingCraftStudio.pdb
+I:\Проекты\SRC\CodingCraftStudio\CodingCraftStudio\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Проекты\SRC\CodingCraftStudio\CodingCraftStudio\obj\x86\Debug\CodingCraftStudio.Properties.Resources.resources
+I:\Проекты\SRC\CodingCraftStudio\CodingCraftStudio\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Проекты\SRC\CodingCraftStudio\CodingCraftStudio\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Проекты\SRC\CodingCraftStudio\CodingCraftStudio\obj\x86\Debug\CodingCraftStudio.exe
+I:\Проекты\SRC\CodingCraftStudio\CodingCraftStudio\obj\x86\Debug\CodingCraftStudio.pdb
+I:\Проекты\SRC\CodingCraftStudio\CodingCraftStudio\obj\x86\Debug\CodingCraftStudio.MainForm.resources
+I:\Проекты\SRC\CodingCraftStudio\CodingCraftStudio\obj\x86\Debug\CodingCraftStudio.LanguageForm.resources
+I:\Проекты\SRC\CodingCraftStudio\CodingCraftStudio\obj\x86\Debug\CodingCraftStudio.Splash.resources
+I:\Проекты\SRC\CodingCraftStudio\CodingCraftStudio\bin\Debug\CodingCraftStudio.exe.config
+I:\Проекты\SRC\CodingCraftStudio\CodingCraftStudio\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+I:\Проекты\SRC\CodingCraftStudio\CodingCraftStudio\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog

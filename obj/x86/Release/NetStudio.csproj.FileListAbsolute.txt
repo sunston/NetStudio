@@ -1,0 +1,11 @@
+C:\Users\Anton\Downloads\MediaMobileTechnologies.7zZIPRAR_pshwwm0bwg8de!App\CodingCraftStudio\CodingCraftStudio\NetStudio\bin\Release\CodingCraftStudio.exe.config
+C:\Users\Anton\Downloads\MediaMobileTechnologies.7zZIPRAR_pshwwm0bwg8de!App\CodingCraftStudio\CodingCraftStudio\NetStudio\obj\x86\Release\CodingCraftStudio.exe
+C:\Users\Anton\Downloads\MediaMobileTechnologies.7zZIPRAR_pshwwm0bwg8de!App\CodingCraftStudio\CodingCraftStudio\NetStudio\obj\x86\Release\CodingCraftStudio.pdb
+C:\Users\Anton\Downloads\MediaMobileTechnologies.7zZIPRAR_pshwwm0bwg8de!App\CodingCraftStudio\CodingCraftStudio\NetStudio\bin\Release\CodingCraftStudio.exe
+C:\Users\Anton\Downloads\MediaMobileTechnologies.7zZIPRAR_pshwwm0bwg8de!App\CodingCraftStudio\CodingCraftStudio\NetStudio\bin\Release\CodingCraftStudio.pdb
+C:\Users\Anton\Downloads\MediaMobileTechnologies.7zZIPRAR_pshwwm0bwg8de!App\CodingCraftStudio\CodingCraftStudio\NetStudio\obj\x86\Release\NetStudio.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Downloads\MediaMobileTechnologies.7zZIPRAR_pshwwm0bwg8de!App\CodingCraftStudio\CodingCraftStudio\NetStudio\obj\x86\Release\NetStudio.LanguageForm.resources
+C:\Users\Anton\Downloads\MediaMobileTechnologies.7zZIPRAR_pshwwm0bwg8de!App\CodingCraftStudio\CodingCraftStudio\NetStudio\obj\x86\Release\NetStudio.MainForm.resources
+C:\Users\Anton\Downloads\MediaMobileTechnologies.7zZIPRAR_pshwwm0bwg8de!App\CodingCraftStudio\CodingCraftStudio\NetStudio\obj\x86\Release\CodingCraftStudio.Properties.Resources.resources
+C:\Users\Anton\Downloads\MediaMobileTechnologies.7zZIPRAR_pshwwm0bwg8de!App\CodingCraftStudio\CodingCraftStudio\NetStudio\obj\x86\Release\NetStudio.Splash.resources
+C:\Users\Anton\Downloads\MediaMobileTechnologies.7zZIPRAR_pshwwm0bwg8de!App\CodingCraftStudio\CodingCraftStudio\NetStudio\obj\x86\Release\NetStudio.csproj.GenerateResource.Cache
